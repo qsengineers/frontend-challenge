@@ -1,11 +1,11 @@
 # Lets get started
 All our applications are whitelabel, so we can load any restaurant with its own details on the same application.
-All images are customized and colours are customized.
+All images and colours are customized.
 
 | header color  | buttons colour | header image |
 | ------------- | ------------- | -------------- |
 | venue.webSettings.navBackgroundColour  | venue.webSettings.primaryColour  | venue.webSettings.bannerImage |
-| ![Header Background Color Example](images/header-example.png?raw=true "Header Background Color Example")  | ![Buttons Color Example](images/buttons-example.png?raw=true "Buttons Color Example")  | ![Header Image Example](images/header-image-example.png?raw=true "Header Image Example") |
+| ![Header Background Color Example](https://github.com/qsengineers/frontend-challenge/assets/134649881/d079a57e-4c4a-4c55-bc0e-64fb3a1a41b2)  | ![Buttons Color Example](https://github.com/qsengineers/frontend-challenge/assets/134649881/159b689c-3020-45d2-92b6-57641011a5ae)  | ![Header Image Example](https://github.com/qsengineers/frontend-challenge/assets/134649881/c62f27d1-2bd7-4f35-817f-672477bc5b3a) |
 
 
 - You should use this figma as reference: [figma](https://www.figma.com/file/9eUcy4OeOdqP9Ux5TyCGga/Frontend-test?type=design&node-id=0%3A1&t=OMUQtpcP8FrBbLLe-1)
