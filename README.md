@@ -38,6 +38,7 @@ Don't rush to deliver this. We prefer you take longer than expected and deliver 
 - Layout & CSS
 - Componentization
 - Code Design
+- Git Usage
 - Responsivity
 - Performance
 - Bug count
