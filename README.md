@@ -12,11 +12,14 @@ This challenge is halfway through your job application at Qikserve. If you got h
 When it's delivered, we will review your code, give you feedback and proceed to the next steps of your job application.
 
 # How can I submit the results?
-Fork this repository, build your awesome menu solution and then add ronaldo.zanoni@qikserve.com and caio.ricci@qikserve.com as collaborators to your project.
+Create a new repository, build your awesome menu solution and then send it over to ronaldo.zanoni@qikserve.com and caio.ricci@qikserve.com as collaborators to your project.
 
-Build a great READ.ME explaining how to run your code, your process and choices and anything else you think we should know about you.
+Build a great READ.ME explaining how to run your code, your assumptions, process and choices and anything else you think we should know about your delivery and yourself.
 
-You can open an issue at any time if you have any questions.
+**Do not `fork` this reposiory**
+
+
+
 
 # Development Requirements
 ## Which technologies/libs can I use?
