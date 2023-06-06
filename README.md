@@ -1,20 +1,20 @@
 ![alt text](https://qikserve.com/wp-content/uploads/2021/11/Blue-Logo.png)
 # Challenge - Front End Developer
-If you are here, you probably has already started the interview process and we did like you :)
+If you are here, you probably have already started the interview process and we're off to a great start :)
 
-The idea here is to build an application which will have a restaurant details which its own menu.
+The idea here is to build an application with restaurant details and with its own menu.
 
 Customer then will be able to see each item and add it in the basket.
 
 # What should you expect in this code challenge?
-This challenge is in the middle of your job application at Qikserve. If you are doing this, it means we did like you.
+This challenge is halfway through your job application at Qikserve. If you got here it means we've had a good start.
 
-After you are done, we will review your code, give you feedback and proceed to the next steps of your job application.
+When it's delivered, we will review your code, give you feedback and proceed to the next steps of your job application.
 
-# How can I apply for this opportunity?
+# How can I submit the results?
 Fork this repository, build your awesome menu solution and then add ronaldo.zanoni@qikserve.com and caio.ricci@qikserve.com as collaborators to your project.
 
-Build a great READ.ME explaining how to run your code and which technologies did you choose.
+Build a great READ.ME explaining how to run your code, your process and choices and anything else you think we should know about you.
 
 You can open an issue at any time if you have any questions.
 
@@ -27,11 +27,11 @@ You can open an issue at any time if you have any questions.
 
 
 ## Time frame
-Don't rush to deliver this. We prefer you take longer than expected and deliver a quality application than delivering it faster with bugs and layout differences.
+There is no time limit. We absolutely value quality, take the time you need to build the best app you can! 
 
 
 # Lets get started
-[Click here](CHALLENGE.md) to check about the test.
+[Click here](CHALLENGE.md) to read about the test.
 
 # Which are the main aspects we'll be evaluating in your code:
 - Clean Code
