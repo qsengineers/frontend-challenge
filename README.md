@@ -34,7 +34,7 @@ There is no time limit. We absolutely value quality, take the time you need to b
 
 
 # Lets get started
-[Click here](CHALLENGE.md) to read about the test.
+The file [CHALLENGE.md](CHALLENGE.md) contain the instructions of the test.
 
 # Which are the main aspects we'll be evaluating in your code:
 - Clean Code
