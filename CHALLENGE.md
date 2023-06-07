@@ -1,6 +1,14 @@
 # Lets get started
-All our applications are whitelabel, so we can load any restaurant with its own details on the same application.
-All images and colours are customized.
+
+As described in the Readme, this challenge consists of building a react application that will present some restaurant data and it's menu. We should be able to visualize items and build a basket.
+
+Restaurant Data should be consumed from the provided api below. Do not mock the json's, fetch the data from the endpoints provided.
+
+##UI - Application 
+
+At Qikserve we must value both customer experience and the restaurant's capability to manage their applications, your deliverable should follow the details in this section. Remember the topics that will be evaluated when considering what/how to build.
+
+We build all of our applications as whitelabel products so each restaurant has the ability to configure it's own branding so our application fits well within their own products, all images and colours of the application are customized by venue.
 
 | header color  | buttons colour | header image |
 | ------------- | ------------- | -------------- |
@@ -8,8 +16,10 @@ All images and colours are customized.
 | ![Header Background Color Example](https://github.com/qsengineers/frontend-challenge/assets/134649881/d079a57e-4c4a-4c55-bc0e-64fb3a1a41b2)  | ![Buttons Color Example](https://github.com/qsengineers/frontend-challenge/assets/134649881/159b689c-3020-45d2-92b6-57641011a5ae)  | ![Header Image Example](https://github.com/qsengineers/frontend-challenge/assets/134649881/c62f27d1-2bd7-4f35-817f-672477bc5b3a) |
 
 
-- You should use this figma as reference: [figma](https://www.figma.com/file/9eUcy4OeOdqP9Ux5TyCGga/Front-end-test?type=design&node-id=7-2406)
-- You can see this animation as reference to understand how screens communicate each other: [animation](https://www.figma.com/proto/9eUcy4OeOdqP9Ux5TyCGga/Front-end-test?page-id=9%3A2408&type=design&node-id=9-2409&viewport=331%2C510%2C0.19&scaling=scale-down&starting-point-node-id=9%3A2409)
+- As a front end focused developer you'll typically be provided with a figma with the screens that you'll need to build. Use this figma as the design work. [figma](https://www.figma.com/file/9eUcy4OeOdqP9Ux5TyCGga/Front-end-test?type=design&node-id=7-2406)
+- Here's the usage flow of the screens: [animation](https://www.figma.com/proto/9eUcy4OeOdqP9Ux5TyCGga/Front-end-test?page-id=9%3A2408&type=design&node-id=9-2409&viewport=331%2C510%2C0.19&scaling=scale-down&starting-point-node-id=9%3A2409)
+
+##Mock Apis Access
 
 This is the API endpoint you should use to fetch Restaurant details: https://run.mocky.io/v3/0453ad6e-f530-4864-b101-a7fba4980012
 ```
