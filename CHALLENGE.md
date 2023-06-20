@@ -4,7 +4,7 @@ As described in the Readme, this challenge consists of building a react applicat
 
 Restaurant Data should be consumed from the provided api below. Do not mock the json's, fetch the data from the endpoints provided.
 
-##UI - Application 
+## UI - Application 
 
 At Qikserve we must value both customer experience and the restaurant's capability to manage their applications, your deliverable should follow the details in this section. Remember the topics that will be evaluated when considering what/how to build.
 
@@ -19,7 +19,7 @@ We build all of our applications as whitelabel products so each restaurant has t
 - As a front end focused developer you'll typically be provided with a figma with the screens that you'll need to build. Use this figma as the design work. [figma](https://www.figma.com/file/9eUcy4OeOdqP9Ux5TyCGga/Front-end-test?type=design&node-id=7-2406)
 - Here's the usage flow of the screens: [animation](https://www.figma.com/proto/9eUcy4OeOdqP9Ux5TyCGga/Front-end-test?page-id=9%3A2408&type=design&node-id=9-2409&viewport=331%2C510%2C0.19&scaling=scale-down&starting-point-node-id=9%3A2409)
 
-##Mock Apis Access
+## Mock Apis Access
 
 This is the API endpoint you should use to fetch Restaurant details: https://run.mocky.io/v3/0453ad6e-f530-4864-b101-a7fba4980012
 ```
