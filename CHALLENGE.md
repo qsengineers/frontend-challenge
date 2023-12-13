@@ -21,7 +21,7 @@ We build all of our applications as whitelabel products so each restaurant has t
 
 ## Mock Apis Access
 
-This is the API endpoint you should use to fetch Restaurant details: https://run.mocky.io/v3/0453ad6e-f530-4864-b101-a7fba4980012
+This is the API endpoint you should use to fetch Restaurant details: [https://98d36ac94d36499f89398905f4d4f609.api.mockbin.io/](https://98d36ac94d36499f89398905f4d4f609.api.mockbin.io/)
 ```
 
    {
@@ -56,7 +56,7 @@ This is the API endpoint you should use to fetch Restaurant details: https://run
  }
 ```
 
-This is the API endpoint you should use to fetch Menu details: https://run.mocky.io/v3/a27e98a8-fe59-4623-be70-b9ac4a3254a7
+This is the API endpoint you should use to fetch Menu details: [https://2486713dae314753ae6b0ff127002d12.api.mockbin.io/](https://2486713dae314753ae6b0ff127002d12.api.mockbin.io/)
 ```
 
   {
