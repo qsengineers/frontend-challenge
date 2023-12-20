@@ -49,4 +49,4 @@ The file [CHALLENGE.md](CHALLENGE.md) contain the instructions of the test.
 
 ## Differentials
 - Unit tests with React Testing Library
-- Pixel Perfect
+- *Pixel Perfect*
