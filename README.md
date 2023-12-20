@@ -38,15 +38,16 @@ The file [CHALLENGE.md](CHALLENGE.md) contain the instructions of the test.
 
 # Which are the main aspects we'll be evaluating in your code:
 - Clean Code
-- Layout & CSS
 - Componentization
 - Code Design
 - Git Usage
 - Responsivity
-- Performance
 - Bug count
 - UX
 - **Pixel Perfect**
 
 ## Differentials
 - Unit tests with React Testing Library
+- Internationalization for texts
+- Internationalization for times/dates
+- Internationalization for money
