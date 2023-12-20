@@ -27,6 +27,7 @@ Build a great READ.ME explaining how to run your code, your assumptions, process
 - Typescript
 - ES6+
 - React Hooks
+- Redux
 
 
 ## Time frame
