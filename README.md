@@ -46,7 +46,7 @@ The file [CHALLENGE.md](CHALLENGE.md) contain the instructions of the test.
 - Performance
 - Bug count
 - UX
+- **Pixel Perfect**
 
 ## Differentials
 - Unit tests with React Testing Library
-- *Pixel Perfect*
