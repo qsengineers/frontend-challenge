@@ -21,7 +21,7 @@ We build all of our applications as whitelabel products so each restaurant has t
 
 ## Mock Apis Access
 
-This is the API endpoint you should use to fetch Restaurant details: [https://98d36ac94d36499f89398905f4d4f609.api.mockbin.io/](https://98d36ac94d36499f89398905f4d4f609.api.mockbin.io/)
+This is the API endpoint you should use to fetch Restaurant details: [https://frontend-challenge.free.beeceptor.com/venue/9](https://frontend-challenge.free.beeceptor.com/venue/9)
 ```
 
    {
@@ -56,7 +56,7 @@ This is the API endpoint you should use to fetch Restaurant details: [https://98
  }
 ```
 
-This is the API endpoint you should use to fetch Menu details: [https://2486713dae314753ae6b0ff127002d12.api.mockbin.io/](https://2486713dae314753ae6b0ff127002d12.api.mockbin.io/)
+This is the API endpoint you should use to fetch Menu details: [https://frontend-challenge.free.beeceptor.com/menu](https://frontend-challenge.free.beeceptor.com/menu)
 ```
 
   {
