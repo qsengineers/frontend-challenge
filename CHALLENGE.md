@@ -21,7 +21,7 @@ We build all of our applications as whitelabel products so each restaurant has t
 
 ## Mock Apis Access
 
-This is the API endpoint you should use to fetch Restaurant details: [https://frontend-challenge.free.beeceptor.com/venue/9](https://frontend-challenge.free.beeceptor.com/venue/9)
+This is the API endpoint you should use to fetch Restaurant details: [https://cdn-dev.preoday.com/challenge/venue/9](https://cdn-dev.preoday.com/challenge/venue/9)
 ```
 
    {
@@ -56,7 +56,7 @@ This is the API endpoint you should use to fetch Restaurant details: [https://fr
  }
 ```
 
-This is the API endpoint you should use to fetch Menu details: [https://frontend-challenge.free.beeceptor.com/menu](https://frontend-challenge.free.beeceptor.com/menu)
+This is the API endpoint you should use to fetch Menu details: [https://cdn-dev.preoday.com/challenge/menu](https://cdn-dev.preoday.com/challenge/menu)
 ```
 
   {
