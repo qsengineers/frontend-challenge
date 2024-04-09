@@ -12,11 +12,10 @@ This challenge is halfway through your job application at Qikserve. If you got h
 When it's delivered, we will review your code, give you feedback and proceed to the next steps of your job application.
 
 # How can I submit the results?
-Create a new repository, build your awesome menu solution and then send it over.
-
-Build a great READ.ME explaining how to run your code, your assumptions, process and choices and anything else you think we should know about your delivery and yourself.
-
-**Do not `fork` this reposiory**
+- Create a new repository, build your awesome menu solution and then send it over.
+- Build a great READ.ME explaining how to run your code, your assumptions, process and choices and anything else you think we should know about your delivery and yourself.
+- Deploy the solution in a shared URL so we can see the results without needing to run.
+- **Do not `fork` this reposiory**
 
 
 
